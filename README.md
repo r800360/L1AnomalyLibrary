@@ -14,6 +14,8 @@ L1AnomalyTransform.py - new class not implemented yet - will contain transformat
 All in all, there are three not implemented errors that are raised due to code migration in addition to the above L1AnomalyTransform.py error:
 
 L1AnomalyPCA.py - plotting the ROC curve
+
 L1AnomalyPlot.py - using BokehJS without the class variable
+
 L1AnomalyEncoderUtil.py - in mod_make_mse_per_sample when classVar is True (not a high priority)
 
